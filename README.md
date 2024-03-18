@@ -19,3 +19,6 @@ This is my personal website, which includes information about my work, myself, a
 2. Open the `index.html` file in a web browser to view the website.
 
 [Visit my website!](https://spontaneous-cobbler-3d23c0.netlify.app)
+
+## Screenshot
+![Screenshot of my website](/screenshot.png)
