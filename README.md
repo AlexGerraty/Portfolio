@@ -21,5 +21,5 @@ This is my personal website, which includes information about my work, myself, a
 [Visit my website!](https://spontaneous-cobbler-3d23c0.netlify.app)
 
 ## Screenshot
-![Screenshot of my website](/Portfolio Screenshot.png)
+![Screenshot of my website](/PortfolioScreenshot.png)
 )
